@@ -1,10 +1,10 @@
 <script>
 
-import HeaderComp from './components/HeaderComp.Vue'
-import MainComp from './components/MainComp.Vue'
-import FooterComp from './components/FooterComp.vue'
+import HeaderComp from "./components/HeaderComp.Vue";
+import MainComp from "./components/MainComp.Vue";
+import FooterComp from "./components/FooterComp.vue"
 
-export default {
+export default{
   name: "App",
   components: {
     HeaderComp,
@@ -13,10 +13,12 @@ export default {
   }
 }
 
-
-
 </script>
 
-<template></template>
+<template>
 
-<style></style>
+</template>
+
+<style scoped>
+
+</style>

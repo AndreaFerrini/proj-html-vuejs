@@ -2,20 +2,12 @@
 
 export default {
     name: "FooterComp",
-    components: {
 
-    },
-    data() {
-        return {
-
-        }
-    },
-    methods: {
-
-    },
 }
 </script>
 
-<template></template>
+<template>
+</template>
 
-<style scoped></style>
+<style>
+</style>

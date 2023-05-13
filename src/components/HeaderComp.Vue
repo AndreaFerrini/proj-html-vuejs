@@ -2,21 +2,12 @@
 
 export default {
     name: "HeaderComp",
-    components: {
 
-    },
-    data() {
-        return {
-
-        }
-    },
-    methods: {
-
-    },
 }
 </script>
 
-<template></template>
+<template>
+</template>
 
-<style scoped></style>
-
+<style>
+</style>
