@@ -26,6 +26,10 @@ export default {
             </ul>
         </div>
     </header>
+    <div class="container pt-3">
+        <img src="public\images\logo-default-slim.png" alt="logo-slim">
+    </div>
+    <hr class="px-grigio">
 </template>
 
 <style>
@@ -49,5 +53,9 @@ a{
     text-decoration: none;
     color: white;
     cursor: pointer;
+}
+
+hr{
+    border: 1px solid rgba(217, 217, 217);
 }
 </style>
