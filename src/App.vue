@@ -16,6 +16,10 @@ export default{
 </script>
 
 <template>
+  <HeaderComp/>
+  <MainComp/>
+  <FooterComp/>
+
 
 </template>
 
