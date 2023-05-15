@@ -3,6 +3,7 @@
 import HeaderComp from "./components/HeaderComp.Vue";
 import NavHComp from "./components/NavHComp.vue"
 import MainComp from "./components/MainComp.Vue";
+import MainPosts from "./components/MainPosts.vue";
 import FooterComp from "./components/FooterComp.vue"
 
 export default{
@@ -11,6 +12,7 @@ export default{
     HeaderComp,
     NavHComp,
     MainComp,
+    MainPosts,
     FooterComp
   }
 }
@@ -21,6 +23,7 @@ export default{
   <HeaderComp/>
   <NavHComp/>
   <MainComp/>
+  <MainPosts/>
   <FooterComp/>
 
 

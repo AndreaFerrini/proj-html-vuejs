@@ -32,7 +32,7 @@ export default {
                         <div class="card_header">                
                         <div class="card_header-text">
                             <button class="text-uppercase">Gadgets</button>
-                            <h3 class="card_title">Author: John Doe</h3>
+                            <h3 class="card_title">Author: Tizio Caio</h3>
                         </div>
                         </div>
                         <p class="card_description">Gadgets That Make Your Smartphone Even Smarter</p>
@@ -60,7 +60,7 @@ export default {
                         <div class="card_header">                
                         <div class="card_header-text">
                             <button class="text-uppercase">Lifestyle</button>
-                            <h3 class="card_title">Author: John Doe</h3>
+                            <h3 class="card_title">Author: Fonzie</h3>
                         </div>
                         </div>
                         <p class="card_description">The Best Way to Ride a Motorcycle</p>
@@ -74,7 +74,7 @@ export default {
                         <div class="card_header">                
                         <div class="card_header-text">
                             <button class="text-uppercase">Travel</button>
-                            <h3 class="card_title">Author: John Doe</h3>
+                            <h3 class="card_title">Author: Sempronio</h3>
                         </div>
                         </div>
                         <p class="card_description">5 Fun Things to Do at the Beach</p>
@@ -88,7 +88,7 @@ export default {
                         <div class="card_header">                
                         <div class="card_header-text">
                             <button class="text-uppercase">Recipes</button>
-                            <h3 class="card_title">Author: John Doe</h3>
+                            <h3 class="card_title">Author: Tizio Caio</h3>
                         </div>
                         </div>
                         <p class="card_description">Amazingly Fresh Fruit And Herb Drinks For Summer</p>
