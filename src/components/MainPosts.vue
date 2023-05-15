@@ -119,7 +119,7 @@ export default {
                                 <h3 class="card_title">John Doe</h3>
                             </div>
                             </div>
-                            <p class="card_description">He is a serial photographer and starts his working with The Seven Wonders of the World. He earned a sense of creativity working with his rivals Mr. Somerset and Mr. Mills. </p>
+                            <p class="card_description">He is a serial photographer and starts his working with The Seven Wonders of the World. He earned a sense of creativity rivaling with Mr. Somerset and Mr. Mills. </p>
                         </div>
                         </a>
                     </li>

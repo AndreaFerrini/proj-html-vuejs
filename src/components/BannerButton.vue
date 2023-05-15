@@ -6,7 +6,7 @@ export default {
         return{
             menuButton: [
                 {
-                    nome:`Photography`,
+                    nome:`Photos`,
                     url: `#`,
                     current: false
                 },
@@ -70,8 +70,8 @@ export default {
                 <div @click="prev">
                     <i class="fa-solid fa-chevron-left"></i>
                 </div>
-                <li class="p-3" v-for="(elem, index) in menuButton" :key="index">
-                    <a href="#" class="btn py-3 px-4 text-uppercase mr-2 mb-2" 
+                <li class="p-5" v-for="(elem, index) in menuButton" :key="index">
+                    <a href="#" class="btn p-4 text-uppercase mr-2 mb-2" 
                     :class=" currentButton ? `active` : `` " :href="elem.url"> {{ elem.nome }}</a>
                 </li>
                 <div @click="next">
@@ -93,6 +93,11 @@ a{
     color: white;
     background-color: rgb(33,37,41);
     width: 150%;
+}
+
+a:active{
+    color: rgb(33,37,41);
+    background-color: white;
 }
 
 #btn-centra{
