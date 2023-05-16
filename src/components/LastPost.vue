@@ -226,7 +226,7 @@ export default {
   font:normal bold 11px/30px Arial, Helvetica, sans-serif;
   color:#fff;
   text-shadow:#00365a 0 -1px 0; 
-  background:#04599a; 
+  background:rgb(33,37,41); 
   background:-moz-linear-gradient(top,  #04599a,  #00365a); 
   border-bottom-right-radius:3px;
   border-bottom-left-radius:3px;  

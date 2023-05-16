@@ -6,6 +6,7 @@ import MainComp from "./components/MainComp.Vue";
 import MainPosts from "./components/MainPosts.vue";
 import BannerButton from "./components/BannerButton.vue";
 import LastPost from "./components/LastPost.vue";
+import MainBottom from "./components/MainBottom.vue";
 import FooterComp from "./components/FooterComp.vue"
 
 export default{
@@ -17,6 +18,7 @@ export default{
     MainPosts,
     BannerButton,
     LastPost,
+    MainBottom,
     FooterComp
   }
 }
@@ -30,6 +32,7 @@ export default{
   <MainPosts/>
   <BannerButton/>
   <LastPost/>
+  <MainBottom/>
   <FooterComp/>
 
 
