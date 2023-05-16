@@ -34,8 +34,6 @@ export default{
   <LastPost/>
   <MainBottom/>
   <FooterComp/>
-
-
 </template>
 
 <style scoped>

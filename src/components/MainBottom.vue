@@ -9,7 +9,7 @@ export default {
 <template>
     <div id="nero-opaco">
         <div class="container pt-3">
-            <div class="row py-5 my-4">
+            <div class="row py-5">
                 <div class="col-md-6 col-lg-3 mb-5 mb-lg-0">
                     <h4 class="text-uppercase mb-5">About the blog</h4>
                     <p>Lorem ipsum door sit amet, consectetur adipiscing elit. Donec eu pulvinar magna semper scelerisque.</p>
@@ -52,13 +52,13 @@ export default {
                     <ul class="list-unstyled mb-0">
                         <li class="mb-3 pb-1">
                             <a href="#">
-                                <p class="text-3 opacity-8 mb-1"><i class="fas fa-angle-right text-color-blue"></i><strong class="ml-2 text-color-white">John Doe</strong> commented on <strong class="text-color-blue">lorem ipsum dolor sit amet.</strong></p>
+                                <p class="text-3 opacity-8 mb-1"><i class="fas fa-angle-right text-color-blue pe-2"></i><strong class="ml-2 text-color-white">John Doe</strong> commented on <strong class="text-color-blue">lorem ipsum dolor sit amet.</strong></p>
                                 <p class="text-2 mb-0">12:55 AM Dec 19th</p>
                             </a>
                         </li>
                         <li>
                             <a href="#">
-                                <p class="text-3 opacity-8 mb-1"><i class="fas fa-angle-right text-color-blue"></i><strong class="ml-2 text-color-white">John Doe</strong> commented on <strong class="text-color-blue">lorem ipsum dolor sit amet.</strong></p>
+                                <p class="text-3 opacity-8 mb-1"><i class="fas fa-angle-right text-color-blue pe-2"></i><strong class="ml-2 text-color-white">John Doe</strong> commented on <strong class="text-color-blue">lorem ipsum dolor sit amet.</strong></p>
                                 <p class="text-2 mb-0">12:55 AM Dec 19th</p>
                             </a>
                         </li>
